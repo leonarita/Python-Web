@@ -1,7 +1,7 @@
 # Python Web
 ***
 
-Esse repositório apresenta o meu progresso no estudo dos frameworks de Python para web.
+Esse repositório apresenta o meu progresso no estudo dos frameworks de Python para web, cujo foco é voltado para o backend.
 <br><br>
 
 ## Principais Tópicos Estudados
@@ -29,4 +29,4 @@ Esse repositório apresenta o meu progresso no estudo dos frameworks de Python p
 
 1. Criação de rotas e de middlewares;
 2. Criação de models e conexão com o banco de dados;
-3. Criação do CRUD;
+3. Criação do CRUD.
